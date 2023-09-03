@@ -5,8 +5,8 @@ script:
   - 'npm run build'
   - 'npm run test:nowatch'
 
-deploy;
+deploy:
   provide: heroku
-  api_key: 
+  api_key:
     secure: $HEROKU_TOKEN
   app: book-store-web-client
