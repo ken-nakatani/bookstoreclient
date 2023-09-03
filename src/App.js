@@ -1,7 +1,7 @@
 import React from 'react';
 
 const App = () => {
-  return <div>check travisci</div>;
+  return <div>My first component</div>;
 };
 
 export default App;
