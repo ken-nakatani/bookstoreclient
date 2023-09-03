@@ -16,8 +16,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "test:nowatch": "react-scripts test --no-watch  --coverage",
-    "eject": "react-scripts eject",
-    "develop": "NODE_OPTIONS='--openssl-legacy-provider'"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
